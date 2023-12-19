@@ -1,0 +1,114 @@
+﻿@{
+    ViewData["Title"] = "Личное посещение";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div id="_Public_Visit" class="container d-grid gap-2">
+    <div class="d-flex flex-row gap-2 flex-wrap">
+        <div class="col" style="background-color: #FFC073; border-radius: 10px; padding: 20px">
+            <div class="text-center" style="background-color:orange; border-radius: 10px; padding:20px">
+                <h5>Информация для пропуска</h5>
+            </div>
+            <div class="d-grid gap-1 justify-content-center mt-2">
+                <h6>Срок действия заявки:</h6>
+                <div class="d-flex gap-1">
+                    <h6>с*</h6>
+                    <input id="_s_date" type="date" />
+                    <h6>по</h6>
+                    <input id="_po_date" type="date" />
+                </div>
+                <h6>Цель посещения:</h6>
+                <input id="_purpose" type="text" />
+            </div>
+        </div>
+        <div class="col" style="background-color: #FFC073; border-radius: 10px; padding: 20px">
+            <div class="text-center" style="background-color:orange; border-radius: 10px; padding:20px">
+                <h5>Принимающая сторона</h5>
+            </div>
+            <div class="d-grid gap-1 justify-content-center mt-2">
+                <h6>Подразделение</h6>
+                <select class="form-select" id="_Division">
+                    <option selected>Выбрать...</option>
+                    <option value="1">Обычное</option>
+                </select>
+                <h6>ФИО</h6>
+                <select class="form-select" id="_fio">
+                    <option selected>Выбрать...</option>
+                    <option value="1">Сергей Васильевич Петренко</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="d-flex gap-2" style="flex-wrap: wrap;">
+        <div class="col" style="background-color: #FFC073; border-radius: 10px; padding: 20px">
+            <div class="text-center" style="background-color:orange; border-radius: 10px; padding:20px">
+                <h5>Информация о посетителе</h5>
+            </div>
+            <div class="d-flex gap-1 justify-content-center mt-2">
+                <div class="d-grid gap-1 justify-content-around">
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>Фамилия</h6>
+                        <input id="_f_name" type="text" />
+                    </div>
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>Имя</h6>
+                        <input id="_n_name" type="text" />
+                    </div>
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>Отчество</h6>
+                        <input id="_o_name" type="text" />
+                    </div>
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>Телефон</h6>
+                        <input id="_tel" type="number" />
+                    </div>
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>E-mail</h6>
+                        <input id="email" type="email" />
+                    </div>
+                </div>
+                <div class="d-grid gap-1 justify-content-between">
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>Организация</h6>
+                        <input id="_organization" type="text" />
+                    </div>
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>Примечание</h6>
+                        <input id="_node" type="text" />
+                    </div>
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>Дата рождения</h6>
+                        <input id="_date_age" type="date" />
+                    </div>
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>Серия</h6>
+                        <input id="_ser_passport" type="text" />
+                    </div>
+                    <div class="d-flex gap-1 justify-content-between">
+                        <h6>Номер</h6>
+                        <input id="_num_passport" type="text" />
+                    </div>
+                </div>
+            </div>
+            <a id="add" class="btn btn-secondary mt-2 w-100">Добавить</a>
+        </div>
+        <div class="col" style="background-color: #FFC073; border-radius: 10px; padding: 20px">
+            <div class="text-center" style="background-color:orange; border-radius: 10px; padding:20px">
+                <h5>Список посетителей</h5>
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">ФИО</th>
+                        <th scope="col">Контакты</th>
+                    </tr>
+                </thead>
+                <tbody id="t_content" class="t_content">
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <a id="send" class="btn btn-secondary w-100">Оформить заявку</a>
+</div>

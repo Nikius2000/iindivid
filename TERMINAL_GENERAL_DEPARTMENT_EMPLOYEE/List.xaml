@@ -1,0 +1,72 @@
+﻿<Window x:Class="TERMINAL_GENERAL_DEPARTMENT_EMPLOYEE.List"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TERMINAL_GENERAL_DEPARTMENT_EMPLOYEE"
+        mc:Ignorable="d"
+        Title="Список заявок" Height="450" Width="800" MinHeight="450" MinWidth="800"
+        Background="#2B2E4A">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100*"/>
+            <ColumnDefinition Width="60*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="50*"/>
+            </Grid.RowDefinitions>
+            <DataGrid x:Name="DataGrid_list" Grid.Row="1" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+            <Label Grid.Column="1" Grid.Row="0" Content="Список заявок" HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="White" FontSize="21"/>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="10*"/>
+                <RowDefinition Height="50*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="search_id" Margin="5" Foreground="White" Background="#903749" FontSize="16"/>
+                <Button x:Name="search" Grid.Column="1" Grid.Row="3" Margin="5" Content="Поиск" FontSize="16" Foreground="White" Background="#E84545" Click="search_Click"/>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Label x:Name="id" Grid.Row="1" Grid.Column="0" Content="Айди" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="White" FontSize="14" Margin="0,0,10,0"/>
+                <TextBox x:Name="inp_id" Grid.Row="1" Grid.Column="1" Margin="5" Foreground="White" Background="#903749" FontSize="16"/>
+                <Label x:Name="f_name" Grid.Row="2" Grid.Column="0" Content="Фамилия" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="White" FontSize="14" Margin="0,0,10,0"/>
+                <TextBox x:Name="inp_f_name" Grid.Row="2" Grid.Column="1" Margin="5" Foreground="White" Background="#903749" FontSize="16"/>
+                <Label x:Name="i_name" Grid.Row="3" Grid.Column="0" Content="Имя" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="White" FontSize="14" Margin="0,0,10,0"/>
+                <TextBox x:Name="inp_i_name" Grid.Row="3" Grid.Column="1" Margin="5" Foreground="White" Background="#903749" FontSize="16"/>
+                <Label x:Name="o_name" Grid.Row="4" Grid.Column="0" Content="Отчество" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="White" FontSize="14" Margin="0,0,10,0"/>
+                <TextBox x:Name="inp_o_name" Grid.Row="4" Grid.Column="1" Margin="5" Foreground="White" Background="#903749" FontSize="16"/>
+                <Label x:Name="status" Grid.Row="5" Grid.Column="0" Content="Статус" HorizontalAlignment="Right" VerticalAlignment="Center" Foreground="White" FontSize="14" Margin="0,0,10,0"/>
+                <TextBox x:Name="inp_status" Grid.Row="5" Grid.Column="1" Margin="5" Foreground="White" Background="#903749" FontSize="16"/>
+                <Button x:Name="edit" Grid.Column="0" Grid.Row="6" Margin="5" Content="Изменить" FontSize="14" Foreground="White" Background="#E84545" Click="edit_Click"/>
+                <Button x:Name="delete" Grid.Column="1" Grid.Row="6" Margin="5" Content="Удалить" FontSize="14" Foreground="White" Background="#E84545" Click="delete_Click"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

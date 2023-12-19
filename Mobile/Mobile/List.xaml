@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mobile.List"
+             Title="Список одобренных заявок">
+    <StackLayout Background="#2B2E4A">
+        <Frame Background="#2B2E4A">
+            <StackLayout x:Name="List_Items">
+                <CollectionView x:Name="Visits">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <StackLayout ClassId="{Binding Id}" Padding="5">
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="OnTapped" Command="{Binding Id}"/>
+                                </StackLayout.GestureRecognizers>
+                                <Grid Background="#5C5F99" Padding="10">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="10*" />
+                                        <ColumnDefinition Width="10*" />
+                                        <ColumnDefinition Width="10*" />
+                                        <ColumnDefinition Width="10*" />
+                                    </Grid.ColumnDefinitions>
+
+                                    <Label Grid.Column="0" VerticalOptions="Center" HorizontalOptions="Center" TextColor="white" Text="{Binding date_start}"/>
+                                    <Label Grid.Column="1" VerticalOptions="Center" HorizontalOptions="Center" TextColor="white" Text="{Binding f_name}"/>
+                                    <Label Grid.Column="2" VerticalOptions="Center" HorizontalOptions="Center" TextColor="white" Text="{Binding i_name}"/>
+                                    <Label Grid.Column="3" VerticalOptions="Center" HorizontalOptions="Center" TextColor="white" Text="{Binding o_name}"/>
+                                </Grid>
+                            </StackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

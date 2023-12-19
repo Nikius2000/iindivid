@@ -1,0 +1,9 @@
+﻿<Application x:Class="TERMINAL_GENERAL_DEPARTMENT_EMPLOYEE.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TERMINAL_GENERAL_DEPARTMENT_EMPLOYEE"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

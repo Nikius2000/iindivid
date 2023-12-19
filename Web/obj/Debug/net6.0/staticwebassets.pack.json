@@ -1,0 +1,649 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\img\\people.png",
+      "PackagePath": "staticwebassets\\img\\people.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\img\\peoples.png",
+      "PackagePath": "staticwebassets\\img\\peoples.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\.gitignore",
+      "PackagePath": "staticwebassets\\js\\cookie\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\.jshintrc",
+      "PackagePath": "staticwebassets\\js\\cookie\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\.tm_properties",
+      "PackagePath": "staticwebassets\\js\\cookie\\.tm_properties"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\.travis.yml",
+      "PackagePath": "staticwebassets\\js\\cookie\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\js\\cookie\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\js\\cookie\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\Gruntfile.js",
+      "PackagePath": "staticwebassets\\js\\cookie\\Gruntfile.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\MIT-LICENSE.txt",
+      "PackagePath": "staticwebassets\\js\\cookie\\MIT-LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\README.md",
+      "PackagePath": "staticwebassets\\js\\cookie\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\bower.json",
+      "PackagePath": "staticwebassets\\js\\cookie\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\component.json",
+      "PackagePath": "staticwebassets\\js\\cookie\\component.json"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\cookie.jquery.json",
+      "PackagePath": "staticwebassets\\js\\cookie\\cookie.jquery.json"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\js\\cookie\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\package.json",
+      "PackagePath": "staticwebassets\\js\\cookie\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\test\\index.html",
+      "PackagePath": "staticwebassets\\js\\cookie\\test\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\test\\malformed_cookie.html",
+      "PackagePath": "staticwebassets\\js\\cookie\\test\\malformed_cookie.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\test\\server.js",
+      "PackagePath": "staticwebassets\\js\\cookie\\test\\server.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\cookie\\test\\tests.js",
+      "PackagePath": "staticwebassets\\js\\cookie\\test\\tests.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\.gitattributes",
+      "PackagePath": "staticwebassets\\js\\toast\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\.gitignore",
+      "PackagePath": "staticwebassets\\js\\toast\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\.jscsrc",
+      "PackagePath": "staticwebassets\\js\\toast\\.jscsrc"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\.jshintrc",
+      "PackagePath": "staticwebassets\\js\\toast\\.jshintrc"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\.travis.yml",
+      "PackagePath": "staticwebassets\\js\\toast\\.travis.yml"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\js\\toast\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\LICENSE",
+      "PackagePath": "staticwebassets\\js\\toast"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\README.md",
+      "PackagePath": "staticwebassets\\js\\toast\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\build\\toastr.css",
+      "PackagePath": "staticwebassets\\js\\toast\\build\\toastr.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\build\\toastr.js.map",
+      "PackagePath": "staticwebassets\\js\\toast\\build\\toastr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\build\\toastr.min.css",
+      "PackagePath": "staticwebassets\\js\\toast\\build\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\build\\toastr.min.js",
+      "PackagePath": "staticwebassets\\js\\toast\\build\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\demo.html",
+      "PackagePath": "staticwebassets\\js\\toast\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\gulpfile.js",
+      "PackagePath": "staticwebassets\\js\\toast\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\karma.conf.js",
+      "PackagePath": "staticwebassets\\js\\toast\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\content\\content\\toastr.css",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\content\\content\\toastr.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\content\\content\\toastr.less",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\content\\content\\toastr.less"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\content\\content\\toastr.min.css",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\content\\content\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\content\\content\\toastr.scss",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\content\\content\\toastr.scss"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\content\\scripts\\toastr.js",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\content\\scripts\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\content\\scripts\\toastr.min.js",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\content\\scripts\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\content\\scripts\\toastr.min.js.map",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\content\\scripts\\toastr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.0.0.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.0.0.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.0.0.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.0.0.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.0.1.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.0.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.0.1.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.0.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.0.2.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.0.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.0.2.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.0.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.0.3.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.0.3.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.0.3.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.0.3.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.0.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.0.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.0.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.0.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.1.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.1.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.2.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.2.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.3.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.3.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.4.1.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.4.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.4.1.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.4.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.4.2.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.4.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.4.2.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.4.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.4.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.4.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.4.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.4.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.5.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.5.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.1.5.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.1.5.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.2.0.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.2.0.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.2.0.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.2.0.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.2.1.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.2.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.2.1.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.2.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.2.2.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.2.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.2.2.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.2.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.3.0.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.3.0.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.3.0.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.3.0.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.3.1.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.3.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.1.3.1.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.1.3.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.2.0.0-rc1.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.2.0.0-rc1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.2.0.0-rc1.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.2.0.0-rc1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.2.0.1.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.2.0.1.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.2.0.1.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.2.0.1.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.2.0.2.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.2.0.2.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.2.0.2.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.2.0.2.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.2.0.3.nupkg",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.2.0.3.nupkg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\nuget\\toastr.2.0.3.nuspec",
+      "PackagePath": "staticwebassets\\js\\toast\\nuget\\toastr.2.0.3.nuspec"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\package-lock.json",
+      "PackagePath": "staticwebassets\\js\\toast\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\package.json",
+      "PackagePath": "staticwebassets\\js\\toast\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\release checklist.md",
+      "PackagePath": "staticwebassets\\js\\toast\\release checklist.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\tests\\qunit\\qunit.css",
+      "PackagePath": "staticwebassets\\js\\toast\\tests\\qunit\\qunit.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\tests\\qunit\\qunit.js",
+      "PackagePath": "staticwebassets\\js\\toast\\tests\\qunit\\qunit.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\tests\\toastr-tests.html",
+      "PackagePath": "staticwebassets\\js\\toast\\tests\\toastr-tests.html"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\tests\\unit\\qunit-helper.js",
+      "PackagePath": "staticwebassets\\js\\toast\\tests\\unit\\qunit-helper.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\tests\\unit\\toastr-tests.js",
+      "PackagePath": "staticwebassets\\js\\toast\\tests\\unit\\toastr-tests.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\tests\\unit\\x.js",
+      "PackagePath": "staticwebassets\\js\\toast\\tests\\unit\\x.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\toastr-icon.png",
+      "PackagePath": "staticwebassets\\js\\toast\\toastr-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\toastr.js",
+      "PackagePath": "staticwebassets\\js\\toast\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\toastr.less",
+      "PackagePath": "staticwebassets\\js\\toast\\toastr.less"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\js\\toast\\toastr.scss",
+      "PackagePath": "staticwebassets\\js\\toast\\toastr.scss"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\source\\repos\\SecurityPRO\\Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Web.props",
+      "PackagePath": "build\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.props",
+      "PackagePath": "buildMultiTargeting\\Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Web.props",
+      "PackagePath": "buildTransitive\\Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
